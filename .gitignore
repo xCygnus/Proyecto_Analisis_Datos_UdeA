@@ -1,3 +1,7 @@
+credenciales.json
+database.sql
+
+
 #Entornos Virtuales
 venv/
 env/
@@ -12,7 +16,4 @@ __pycache__/
 
 # VS Code
 .vscode/
-
-credenciales.json
-database.sql
 
